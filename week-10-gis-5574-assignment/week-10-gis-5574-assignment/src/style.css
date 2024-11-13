@@ -1,0 +1,36 @@
+html,
+body, 
+
+#viewDiv {
+  padding: 0px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  margin-right: 10px;
+  margin-left: 10px;
+  height: 100%;
+  width: 100%;
+  background-color: #839383;
+}
+
+h1 {
+  text-align: center
+}
+
+h4 {
+  text-align: center
+}
+
+/* Couldn't figure out how to move my open button to the middle
+*/
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+#buttonContainer {
+  position: absolute;
+  top: 210px;
+  right: 10px; 
+}
