@@ -1,5 +1,4 @@
 <html>
-
 <head>
   <h1>Clean Streets Index by the City of Los Angeles </h1>
   <h4>To view their official story click the open button below.</h4>
